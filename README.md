@@ -12,8 +12,10 @@ meu nome é Isabela Da Silva Santos, mas prefiro ser chamada por apelidos (isa, 
 
   # # # formas de contato
   📫 isabelasilvasantos90@gmail.com
+
+  @i.sah_silv
   
-  📱 @i.sah_silv (instagram)
+
 
 
   ![](https://media.tenor.com/mrApR_tNofkAAAAi/sunflower-plant.gif)
