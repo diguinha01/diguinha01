@@ -1,4 +1,24 @@
-### Hi there 👋
+### seja bem vindo ao jardim 🌻🫀
+
+<!--
+**diguinha01/diguinha01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+meu nome é Isabela Da Silva Santos, mas gosto dos apelidos "isa", "isa silva", "bela" e "diguinha"...
+
+- Estou estudando no [Alura](https://www.alura.com.br) 
+- faço projetos no JavaScript e Scratch
+- jogo vôlei aos finais de semana
+  
+
+  # # # formas de contato
+  📫 isabelasilvasantos90@gmail.com
+  
+  📱 @i.sah_silv (instagram)
+
+
+  ![](https://media.tenor.com/mrApR_tNofkAAAAi/sunflower-plant.gif)
+  
 
 <!--
 **diguinha01/diguinha01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
